@@ -1,0 +1,854 @@
+[
+    {
+        "Country": "United States",
+        "GDP_IMF_Estimate": "26,854,599"
+    },
+    {
+        "Country": "China",
+        "GDP_IMF_Estimate": "19,373,586"
+    },
+    {
+        "Country": "Japan",
+        "GDP_IMF_Estimate": "4,409,738"
+    },
+    {
+        "Country": "Germany",
+        "GDP_IMF_Estimate": "4,308,854"
+    },
+    {
+        "Country": "India",
+        "GDP_IMF_Estimate": "3,736,882"
+    },
+    {
+        "Country": "United Kingdom",
+        "GDP_IMF_Estimate": "3,158,938"
+    },
+    {
+        "Country": "France",
+        "GDP_IMF_Estimate": "2,923,489"
+    },
+    {
+        "Country": "Italy",
+        "GDP_IMF_Estimate": "2,169,745"
+    },
+    {
+        "Country": "Canada",
+        "GDP_IMF_Estimate": "2,089,672"
+    },
+    {
+        "Country": "Brazil",
+        "GDP_IMF_Estimate": "2,081,235"
+    },
+    {
+        "Country": "Russia",
+        "GDP_IMF_Estimate": "2,062,649"
+    },
+    {
+        "Country": "South Korea",
+        "GDP_IMF_Estimate": "1,721,909"
+    },
+    {
+        "Country": "Australia",
+        "GDP_IMF_Estimate": "1,707,548"
+    },
+    {
+        "Country": "Mexico",
+        "GDP_IMF_Estimate": "1,663,164"
+    },
+    {
+        "Country": "Spain",
+        "GDP_IMF_Estimate": "1,492,432"
+    },
+    {
+        "Country": "Indonesia",
+        "GDP_IMF_Estimate": "1,391,778"
+    },
+    {
+        "Country": "Netherlands",
+        "GDP_IMF_Estimate": "1,080,880"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "GDP_IMF_Estimate": "1,061,902"
+    },
+    {
+        "Country": "Turkey",
+        "GDP_IMF_Estimate": "1,029,303"
+    },
+    {
+        "Country": "Switzerland",
+        "GDP_IMF_Estimate": "869,601"
+    },
+    {
+        "Country": "Taiwan",
+        "GDP_IMF_Estimate": "790,728"
+    },
+    {
+        "Country": "Poland",
+        "GDP_IMF_Estimate": "748,887"
+    },
+    {
+        "Country": "Argentina",
+        "GDP_IMF_Estimate": "641,102"
+    },
+    {
+        "Country": "Belgium",
+        "GDP_IMF_Estimate": "624,248"
+    },
+    {
+        "Country": "Sweden",
+        "GDP_IMF_Estimate": "599,052"
+    },
+    {
+        "Country": "Ireland",
+        "GDP_IMF_Estimate": "594,095"
+    },
+    {
+        "Country": "Thailand",
+        "GDP_IMF_Estimate": "574,231"
+    },
+    {
+        "Country": "Norway",
+        "GDP_IMF_Estimate": "554,105"
+    },
+    {
+        "Country": "Israel",
+        "GDP_IMF_Estimate": "539,223"
+    },
+    {
+        "Country": "Singapore",
+        "GDP_IMF_Estimate": "515,548"
+    },
+    {
+        "Country": "Austria",
+        "GDP_IMF_Estimate": "515,199"
+    },
+    {
+        "Country": "Nigeria",
+        "GDP_IMF_Estimate": "506,601"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "GDP_IMF_Estimate": "498,978"
+    },
+    {
+        "Country": "Vietnam",
+        "GDP_IMF_Estimate": "449,094"
+    },
+    {
+        "Country": "Malaysia",
+        "GDP_IMF_Estimate": "447,026"
+    },
+    {
+        "Country": "Philippines",
+        "GDP_IMF_Estimate": "440,901"
+    },
+    {
+        "Country": "Bangladesh",
+        "GDP_IMF_Estimate": "420,516"
+    },
+    {
+        "Country": "Denmark",
+        "GDP_IMF_Estimate": "405,626"
+    },
+    {
+        "Country": "South Africa",
+        "GDP_IMF_Estimate": "399,015"
+    },
+    {
+        "Country": "Hong Kong",
+        "GDP_IMF_Estimate": "382,854"
+    },
+    {
+        "Country": "Egypt",
+        "GDP_IMF_Estimate": "378,110"
+    },
+    {
+        "Country": "Pakistan",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Iran",
+        "GDP_IMF_Estimate": "367,970"
+    },
+    {
+        "Country": "Chile",
+        "GDP_IMF_Estimate": "358,557"
+    },
+    {
+        "Country": "Romania",
+        "GDP_IMF_Estimate": "348,902"
+    },
+    {
+        "Country": "Colombia",
+        "GDP_IMF_Estimate": "334,689"
+    },
+    {
+        "Country": "Czech Republic",
+        "GDP_IMF_Estimate": "330,483"
+    },
+    {
+        "Country": "Finland",
+        "GDP_IMF_Estimate": "301,670"
+    },
+    {
+        "Country": "Peru",
+        "GDP_IMF_Estimate": "268,235"
+    },
+    {
+        "Country": "Iraq",
+        "GDP_IMF_Estimate": "267,893"
+    },
+    {
+        "Country": "Portugal",
+        "GDP_IMF_Estimate": "267,721"
+    },
+    {
+        "Country": "New Zealand",
+        "GDP_IMF_Estimate": "251,969"
+    },
+    {
+        "Country": "Kazakhstan",
+        "GDP_IMF_Estimate": "245,695"
+    },
+    {
+        "Country": "Greece",
+        "GDP_IMF_Estimate": "239,300"
+    },
+    {
+        "Country": "Qatar",
+        "GDP_IMF_Estimate": "219,570"
+    },
+    {
+        "Country": "Algeria",
+        "GDP_IMF_Estimate": "206,007"
+    },
+    {
+        "Country": "Hungary",
+        "GDP_IMF_Estimate": "188,505"
+    },
+    {
+        "Country": "Kuwait",
+        "GDP_IMF_Estimate": "164,713"
+    },
+    {
+        "Country": "Ethiopia",
+        "GDP_IMF_Estimate": "156,083"
+    },
+    {
+        "Country": "Ukraine",
+        "GDP_IMF_Estimate": "148,712"
+    },
+    {
+        "Country": "Morocco",
+        "GDP_IMF_Estimate": "138,781"
+    },
+    {
+        "Country": "Slovakia",
+        "GDP_IMF_Estimate": "127,533"
+    },
+    {
+        "Country": "Ecuador",
+        "GDP_IMF_Estimate": "121,291"
+    },
+    {
+        "Country": "Dominican Republic",
+        "GDP_IMF_Estimate": "121,289"
+    },
+    {
+        "Country": "Puerto Rico",
+        "GDP_IMF_Estimate": "120,838"
+    },
+    {
+        "Country": "Kenya",
+        "GDP_IMF_Estimate": "118,130"
+    },
+    {
+        "Country": "Angola",
+        "GDP_IMF_Estimate": "117,877"
+    },
+    {
+        "Country": "Cuba",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Oman",
+        "GDP_IMF_Estimate": "104,902"
+    },
+    {
+        "Country": "Guatemala",
+        "GDP_IMF_Estimate": "102,309"
+    },
+    {
+        "Country": "Bulgaria",
+        "GDP_IMF_Estimate": "100,635"
+    },
+    {
+        "Country": "Venezuela",
+        "GDP_IMF_Estimate": "96,628"
+    },
+    {
+        "Country": "Uzbekistan",
+        "GDP_IMF_Estimate": "92,332"
+    },
+    {
+        "Country": "Luxembourg",
+        "GDP_IMF_Estimate": "86,971"
+    },
+    {
+        "Country": "Tanzania",
+        "GDP_IMF_Estimate": "85,421"
+    },
+    {
+        "Country": "Turkmenistan",
+        "GDP_IMF_Estimate": "82,649"
+    },
+    {
+        "Country": "Croatia",
+        "GDP_IMF_Estimate": "78,881"
+    },
+    {
+        "Country": "Lithuania",
+        "GDP_IMF_Estimate": "78,346"
+    },
+    {
+        "Country": "Costa Rica",
+        "GDP_IMF_Estimate": "77,777"
+    },
+    {
+        "Country": "Uruguay",
+        "GDP_IMF_Estimate": "77,313"
+    },
+    {
+        "Country": "Panama",
+        "GDP_IMF_Estimate": "77,257"
+    },
+    {
+        "Country": "Ivory Coast",
+        "GDP_IMF_Estimate": "77,047"
+    },
+    {
+        "Country": "Sri Lanka",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Serbia",
+        "GDP_IMF_Estimate": "73,961"
+    },
+    {
+        "Country": "Belarus",
+        "GDP_IMF_Estimate": "73,543"
+    },
+    {
+        "Country": "Azerbaijan",
+        "GDP_IMF_Estimate": "70,030"
+    },
+    {
+        "Country": "DR Congo",
+        "GDP_IMF_Estimate": "69,474"
+    },
+    {
+        "Country": "Slovenia",
+        "GDP_IMF_Estimate": "68,108"
+    },
+    {
+        "Country": "Ghana",
+        "GDP_IMF_Estimate": "66,622"
+    },
+    {
+        "Country": "Myanmar",
+        "GDP_IMF_Estimate": "63,988"
+    },
+    {
+        "Country": "Jordan",
+        "GDP_IMF_Estimate": "52,061"
+    },
+    {
+        "Country": "Tunisia",
+        "GDP_IMF_Estimate": "49,815"
+    },
+    {
+        "Country": "Uganda",
+        "GDP_IMF_Estimate": "49,792"
+    },
+    {
+        "Country": "Cameroon",
+        "GDP_IMF_Estimate": "48,625"
+    },
+    {
+        "Country": "Latvia",
+        "GDP_IMF_Estimate": "47,398"
+    },
+    {
+        "Country": "Sudan",
+        "GDP_IMF_Estimate": "46,705"
+    },
+    {
+        "Country": "Libya",
+        "GDP_IMF_Estimate": "46,297"
+    },
+    {
+        "Country": "Bolivia",
+        "GDP_IMF_Estimate": "46,097"
+    },
+    {
+        "Country": "Bahrain",
+        "GDP_IMF_Estimate": "44,870"
+    },
+    {
+        "Country": "Paraguay",
+        "GDP_IMF_Estimate": "42,820"
+    },
+    {
+        "Country": "Nepal",
+        "GDP_IMF_Estimate": "42,097"
+    },
+    {
+        "Country": "Estonia",
+        "GDP_IMF_Estimate": "41,551"
+    },
+    {
+        "Country": "Macau",
+        "GDP_IMF_Estimate": "35,841"
+    },
+    {
+        "Country": "El Salvador",
+        "GDP_IMF_Estimate": "33,752"
+    },
+    {
+        "Country": "Honduras",
+        "GDP_IMF_Estimate": "32,860"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "GDP_IMF_Estimate": "31,362"
+    },
+    {
+        "Country": "Senegal",
+        "GDP_IMF_Estimate": "31,221"
+    },
+    {
+        "Country": "Cyprus",
+        "GDP_IMF_Estimate": "30,864"
+    },
+    {
+        "Country": "Cambodia",
+        "GDP_IMF_Estimate": "30,628"
+    },
+    {
+        "Country": "Zimbabwe",
+        "GDP_IMF_Estimate": "29,931"
+    },
+    {
+        "Country": "Zambia",
+        "GDP_IMF_Estimate": "29,272"
+    },
+    {
+        "Country": "Iceland",
+        "GDP_IMF_Estimate": "28,625"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "GDP_IMF_Estimate": "28,488"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "GDP_IMF_Estimate": "28,223"
+    },
+    {
+        "Country": "Georgia",
+        "GDP_IMF_Estimate": "27,947"
+    },
+    {
+        "Country": "Haiti",
+        "GDP_IMF_Estimate": "26,580"
+    },
+    {
+        "Country": "Lebanon",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Armenia",
+        "GDP_IMF_Estimate": "23,725"
+    },
+    {
+        "Country": "Guinea",
+        "GDP_IMF_Estimate": "23,330"
+    },
+    {
+        "Country": "Burkina Faso",
+        "GDP_IMF_Estimate": "21,076"
+    },
+    {
+        "Country": "Mali",
+        "GDP_IMF_Estimate": "20,776"
+    },
+    {
+        "Country": "Gabon",
+        "GDP_IMF_Estimate": "20,330"
+    },
+    {
+        "Country": "Albania",
+        "GDP_IMF_Estimate": "20,177"
+    },
+    {
+        "Country": "Afghanistan",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Mozambique",
+        "GDP_IMF_Estimate": "19,909"
+    },
+    {
+        "Country": "Palestine",
+        "GDP_IMF_Estimate": "19,206"
+    },
+    {
+        "Country": "Botswana",
+        "GDP_IMF_Estimate": "19,572"
+    },
+    {
+        "Country": "Yemen",
+        "GDP_IMF_Estimate": "19,529"
+    },
+    {
+        "Country": "Malta",
+        "GDP_IMF_Estimate": "19,405"
+    },
+    {
+        "Country": "Benin",
+        "GDP_IMF_Estimate": "19,236"
+    },
+    {
+        "Country": "Nicaragua",
+        "GDP_IMF_Estimate": "17,287"
+    },
+    {
+        "Country": "Jamaica",
+        "GDP_IMF_Estimate": "17,254"
+    },
+    {
+        "Country": "Mongolia",
+        "GDP_IMF_Estimate": "16,908"
+    },
+    {
+        "Country": "Niger",
+        "GDP_IMF_Estimate": "16,617"
+    },
+    {
+        "Country": "Guyana",
+        "GDP_IMF_Estimate": "16,309"
+    },
+    {
+        "Country": "Brunei",
+        "GDP_IMF_Estimate": "15,988"
+    },
+    {
+        "Country": "Madagascar",
+        "GDP_IMF_Estimate": "15,969"
+    },
+    {
+        "Country": "North Korea",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Moldova",
+        "GDP_IMF_Estimate": "15,829"
+    },
+    {
+        "Country": "Syria",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "North Macedonia",
+        "GDP_IMF_Estimate": "15,278"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "GDP_IMF_Estimate": "15,099"
+    },
+    {
+        "Country": "Mauritius",
+        "GDP_IMF_Estimate": "14,570"
+    },
+    {
+        "Country": "Bahamas",
+        "GDP_IMF_Estimate": "14,114"
+    },
+    {
+        "Country": "Laos",
+        "GDP_IMF_Estimate": "14,091"
+    },
+    {
+        "Country": "Namibia",
+        "GDP_IMF_Estimate": "13,486"
+    },
+    {
+        "Country": "Rwanda",
+        "GDP_IMF_Estimate": "13,149"
+    },
+    {
+        "Country": "Congo",
+        "GDP_IMF_Estimate": "13,031"
+    },
+    {
+        "Country": "Tajikistan",
+        "GDP_IMF_Estimate": "12,796"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "GDP_IMF_Estimate": "12,309"
+    },
+    {
+        "Country": "Chad",
+        "GDP_IMF_Estimate": "11,962"
+    },
+    {
+        "Country": "Malawi",
+        "GDP_IMF_Estimate": "11,277"
+    },
+    {
+        "Country": "Mauritania",
+        "GDP_IMF_Estimate": "10,966"
+    },
+    {
+        "Country": "New Caledonia",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Kosovo",
+        "GDP_IMF_Estimate": "9,990"
+    },
+    {
+        "Country": "Togo",
+        "GDP_IMF_Estimate": "9,001"
+    },
+    {
+        "Country": "Somalia",
+        "GDP_IMF_Estimate": "8,738"
+    },
+    {
+        "Country": "Monaco",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Bermuda",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Montenegro",
+        "GDP_IMF_Estimate": "7,027"
+    },
+    {
+        "Country": "South Sudan",
+        "GDP_IMF_Estimate": "7,012"
+    },
+    {
+        "Country": "Maldives",
+        "GDP_IMF_Estimate": "7,004"
+    },
+    {
+        "Country": "Liechtenstein",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Barbados",
+        "GDP_IMF_Estimate": "6,117"
+    },
+    {
+        "Country": "French Polynesia",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Cayman Islands",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Fiji",
+        "GDP_IMF_Estimate": "5,385"
+    },
+    {
+        "Country": "Eswatini",
+        "GDP_IMF_Estimate": "4,824"
+    },
+    {
+        "Country": "Liberia",
+        "GDP_IMF_Estimate": "4,375"
+    },
+    {
+        "Country": "Djibouti",
+        "GDP_IMF_Estimate": "3,916"
+    },
+    {
+        "Country": "Andorra",
+        "GDP_IMF_Estimate": "3,669"
+    },
+    {
+        "Country": "Aruba",
+        "GDP_IMF_Estimate": "3,633"
+    },
+    {
+        "Country": "Sierra Leone",
+        "GDP_IMF_Estimate": "3,520"
+    },
+    {
+        "Country": "Suriname",
+        "GDP_IMF_Estimate": "3,470"
+    },
+    {
+        "Country": "Burundi",
+        "GDP_IMF_Estimate": "3,234"
+    },
+    {
+        "Country": "Belize",
+        "GDP_IMF_Estimate": "3,162"
+    },
+    {
+        "Country": "Greenland",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Central African Republic",
+        "GDP_IMF_Estimate": "2,736"
+    },
+    {
+        "Country": "Cura\u00e7ao",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Bhutan",
+        "GDP_IMF_Estimate": "2,683"
+    },
+    {
+        "Country": "Eritrea",
+        "GDP_IMF_Estimate": "2,666"
+    },
+    {
+        "Country": "Lesotho",
+        "GDP_IMF_Estimate": "2,584"
+    },
+    {
+        "Country": "Cape Verde",
+        "GDP_IMF_Estimate": "2,468"
+    },
+    {
+        "Country": "Gambia",
+        "GDP_IMF_Estimate": "2,277"
+    },
+    {
+        "Country": "Saint Lucia",
+        "GDP_IMF_Estimate": "2,262"
+    },
+    {
+        "Country": "East Timor",
+        "GDP_IMF_Estimate": "1,988"
+    },
+    {
+        "Country": "Seychelles",
+        "GDP_IMF_Estimate": "1,950"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "GDP_IMF_Estimate": "1,887"
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "GDP_IMF_Estimate": "1,864"
+    },
+    {
+        "Country": "San Marino",
+        "GDP_IMF_Estimate": "1,807"
+    },
+    {
+        "Country": "Zanzibar",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Solomon Islands",
+        "GDP_IMF_Estimate": "1,701"
+    },
+    {
+        "Country": "British Virgin Islands",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Comoros",
+        "GDP_IMF_Estimate": "1,348"
+    },
+    {
+        "Country": "Grenada",
+        "GDP_IMF_Estimate": "1,274"
+    },
+    {
+        "Country": "Vanuatu",
+        "GDP_IMF_Estimate": "1,064"
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "GDP_IMF_Estimate": "1,052"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "GDP_IMF_Estimate": "1,039"
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Samoa",
+        "GDP_IMF_Estimate": "898"
+    },
+    {
+        "Country": "Sint Maarten",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Dominica",
+        "GDP_IMF_Estimate": "681"
+    },
+    {
+        "Country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "GDP_IMF_Estimate": "625"
+    },
+    {
+        "Country": "Tonga",
+        "GDP_IMF_Estimate": "541"
+    },
+    {
+        "Country": "Micronesia",
+        "GDP_IMF_Estimate": "456"
+    },
+    {
+        "Country": "Marshall Islands",
+        "GDP_IMF_Estimate": "291"
+    },
+    {
+        "Country": "Cook Islands",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Palau",
+        "GDP_IMF_Estimate": "262"
+    },
+    {
+        "Country": "Anguilla",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Kiribati",
+        "GDP_IMF_Estimate": "248"
+    },
+    {
+        "Country": "Nauru",
+        "GDP_IMF_Estimate": "151"
+    },
+    {
+        "Country": "Montserrat",
+        "GDP_IMF_Estimate": "\u2014"
+    },
+    {
+        "Country": "Tuvalu",
+        "GDP_IMF_Estimate": "65"
+    }
+]
