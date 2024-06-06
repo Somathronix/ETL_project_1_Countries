@@ -1,2 +1,5 @@
-2024-06-06 15:45:25: Data successfully extracted and saved to 'Countries_GDP_IMF_Estimates.json'.
-2024-06-06 15:45:25: Database 'World_Economies.db' successfully created and populated.
+2024-06-06 16:19:08: Data table not found.
+2024-06-06 16:19:36: Data successfully extracted and saved to the file 'Countries_GDP_IMF_Estimates.json'.
+2024-06-06 16:19:36: Database 'World_Economies.db' successfully created and populated.
+2024-06-06 16:20:30: Data successfully extracted and saved to the file 'Countries_GDP_IMF_Estimates.json'.
+2024-06-06 16:20:30: Database 'World_Economies.db' successfully created and populated.
